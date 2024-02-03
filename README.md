@@ -1,35 +1,13 @@
 ### Hi there 👋
 
-<!--
-**abreu-dev/abreu-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Passionate about technology since childhood, I began my journey in computing by assisting my mother, who worked in sales, always eager to help with computer-related issues.
 
-Here are some ideas to get you started:
+📚 My interest in software development started early, during elementary school, where I began exploring the Python language and creating simple algorithms. This was the starting point for a journey of continuous learning and passion for the field.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 I had the opportunity to attend a federal school, where I could deepen my knowledge in software development and solidify my passion for the field. I graduated in Information Systems, making the most of every learning opportunity.
 
-### My Tech Stack
+💼 With five years of professional experience in the technology industry, I have acquired skills in various languages and technologies, including Python, .NET, Angular, and React. I am committed to staying updated with the latest industry trends and tools.
 
-![.NET](https://img.shields.io/badge/-.NET-blue?style=plastic&logo=.net)
-![Python](https://img.shields.io/badge/-Python-yellow?style=plastic&logo=python&logoColor=ffffff)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=plastic&logo=angular&logoColor=ffffff)
-![HTML](https://img.shields.io/badge/-HTML5-%23E44D27?style=plastic&logo=html5&logoColor=ffffff)
-![CSS](https://img.shields.io/badge/-CSS-green?style=plastic&logo=css3)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=plastic&logo=postgresql&logoColor=ffffff)
-![MongoDB](https://img.shields.io/badge/-MongoDB-white?style=plastic&logo=mongodb)
-![SQLServer](https://img.shields.io/badge/-SQLServer-purple?style=plastic&logo=microsoftsqlserver)
-
-#### Tools
-![VisualStudio](https://img.shields.io/badge/-VisualStudio-purple?style=plastic&logo=visual-studio)
-![VSCode](https://img.shields.io/badge/-VSCode-blue?style=plastic&logo=visual-studio-code)
-![PyCharm](https://img.shields.io/badge/-PyCharm-green?style=plastic&logo=pycharm)
-![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
+🤝 In addition to striving for technical excellence, I am an advocate for teamwork and collaboration. I believe in the power of supporting and empowering team members, creating a positive and productive work environment for everyone.
 
 ![Gabriel's github stats](https://github-readme-stats.vercel.app/api?username=gabrielrabreu&show_icons=true&hide_border=true)
